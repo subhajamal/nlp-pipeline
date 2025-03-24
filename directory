@@ -1,0 +1,10 @@
+nlp-pipeline/
+├── biobert_ner_trained/
+├── data/
+├── notebooks/
+├── scripts/
+├── Cleaned_Notes.zip
+├── MASTER_NOTEBOOK_STRUCTURE.md
+├── Overview.md
+├── README.md  
+
