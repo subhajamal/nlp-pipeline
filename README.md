@@ -26,3 +26,19 @@ This project implements a full pipeline for extracting Social Determinants of He
 ## 🧪 Run the Pipeline
 ```bash
 python scripts/pipeline_polished.py
+
+
+---
+
+---
+
+### ✅ **Step 3: Push to GitHub**
+1. Go to your `nlp-pipeline/` folder.
+2. Run the following Git commands:
+
+```bash
+git init
+git remote add origin https://github.com/subhajamal/nlp-pipeline.git
+git add .
+git commit -m "Upload full NLP SDOH extraction pipeline"
+git push -u origin main
