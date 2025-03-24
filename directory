@@ -1,10 +1,19 @@
 nlp-pipeline/
-├── biobert_ner_trained/
 ├── data/
+│   ├── sdoh_aria_results.csv
+│   ├── sdoh_bio_dataset_corrected.csv
+│   └── keywords_nli_train.json
 ├── notebooks/
+│   ├── PIPELINE_NER.ipynb
+│   ├── sdoh_aria_outputs.ipynb
+│   └── biobert_ner_trained(small).ipynb
 ├── scripts/
+│   ├── pipeline_polished.py
+│   └── bio_convert_sentence_id.py
+├── biobert_ner_trained/
+│   └── [upload model files here]
 ├── Cleaned_Notes.zip
-├── MASTER_NOTEBOOK_STRUCTURE.md
 ├── Overview.md
-├── README.md  
-
+├── MASTER_NOTEBOOK_STRUCTURE.md
+├── README.md
+└── requirements.txt
