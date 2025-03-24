@@ -1,0 +1,433 @@
+File,Extracted_Text,SDOH_Category
+100_01120006000000302493_2016-02-24_10_16_26.nphi.txt,"depression,",MENTAL_HEALTH
+119_01120006000000302493_2016-04-11_13_49_21.nphi.txt,"depression,",MENTAL_HEALTH
+128_01120006000000302493_2016-09-23_11_03_10.nphi.txt,"depression,",MENTAL_HEALTH
+128_01120006000000302493_2016-09-23_11_03_10.nphi.txt,these were discussed with the patient and her family,SOCIAL_SUPPORT
+2_01120006000000302493_2014-04-30_11_04_55.nphi.txt,family history,SOCIAL_SUPPORT
+2_01120006000000302493_2014-04-30_11_04_55.nphi.txt,she has no history of drinking.,ALCOHOL_USE
+2_01120006000000302493_2014-04-30_11_04_55.nphi.txt,quit smoking in [ date ] has [ date ] children.,SMOKING
+3_01120006000000302493_2014-04-08_10_00_03.nphi.txt,family history,SOCIAL_SUPPORT
+3_01120006000000302493_2014-04-08_10_00_03.nphi.txt,she has no history of drinking.,ALCOHOL_USE
+3_01120006000000302493_2014-04-08_10_00_03.nphi.txt,quit smoking in [ date ] has [ date ] children.,SMOKING
+56_01120006000000302493_2015-04-29_11_03_23.nphi.txt,"depression,",MENTAL_HEALTH
+58_01120006000000302493_2015-05-21_12_23_30.nphi.txt,"depression,",MENTAL_HEALTH
+72_01120006000000302493_2015-07-30_12_39_18.nphi.txt,"depression,",MENTAL_HEALTH
+79_01120006000000302493_2015-09-24_12_00_57.nphi.txt,"depression,",MENTAL_HEALTH
+90_01120006000000302493_2015-11-12_09_34_26.nphi.txt,"depression,",MENTAL_HEALTH
+163_01540006102000014721_2014-08-04_11_09_03.nphi.txt,family,SOCIAL_SUPPORT
+164_01540006102000014721_2014-08-04_11_46_35.nphi.txt,history of tobacco use stroke appendectomy in,SMOKING
+175_01540006102000014721_2014-09-02_13_29_30.nphi.txt,personal history of tobacco use splenomegaly stroke vitamin d deficiency appendectomy in [ date ],SMOKING
+181_01540006102000014721_2014-08-21_15_32_19.nphi.txt,personal history of tobacco use splenomegaly stroke vitamin d deficiency appendectomy in,SMOKING
+185_01540006102000014721_2014-10-03_15_09_00.nphi.txt,personal history of tobacco use splenomegaly stroke vitamin d deficiency appendectomy in,SMOKING
+190_01540006102000014721_2014-10-27_15_14_51.nphi.txt,personal history of tobacco use splenomegaly stroke vitamin d deficiency appendectomy in,SMOKING
+191_01540006102000014721_2014-11-25_09_12_57.nphi.txt,personal history of tobacco use splenomegaly stroke vitamin d deficiency appendectomy in,SMOKING
+205_01540006102000014721_2015-01-13_16_23_59.nphi.txt,"history of tobacco use, splenomegaly,",SMOKING
+205_01540006102000014721_2015-01-13_16_23_59.nphi.txt,": cigarettes, no",SMOKING
+205_01540006102000014721_2015-01-13_16_23_59.nphi.txt,", stopped smoking [ date ], and",SMOKING
+205_01540006102000014721_2015-01-13_16_23_59.nphi.txt,: supportive family,SOCIAL_SUPPORT
+205_01540006102000014721_2015-01-13_16_23_59.nphi.txt,drink alcohol,ALCOHOL_USE
+205_01540006102000014721_2015-01-13_16_23_59.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+205_01540006102000014721_2015-01-13_16_23_59.nphi.txt,family history,SOCIAL_SUPPORT
+205_01540006102000014721_2015-01-13_16_23_59.nphi.txt,"depression,",MENTAL_HEALTH
+215_01540006102000014721_2015-06-04_15_15_00.nphi.txt,| | significant other | | family member | | primary care physician | | physician ( consulting or referring ) | | pharmacy | | other |,SOCIAL_SUPPORT
+215_01540006102000014721_2015-06-04_15_15_00.nphi.txt,n ) y recommendations : patient and family verbalize understanding?,SOCIAL_SUPPORT
+215_01540006102000014721_2015-06-04_15_15_00.nphi.txt,n ) y does patient and family agree with plan?,SOCIAL_SUPPORT
+215_01540006102000014721_2015-06-04_15_15_00.nphi.txt,patient and family instructed to,SOCIAL_SUPPORT
+216_01540006102000014721_2015-06-03_10_54_13.nphi.txt,personal history of tobacco use splenomegaly stroke vitamin d deficiency appendectomy in [ date,SMOKING
+224_01540006102000014721_2015-10-06_10_01_07.nphi.txt,personal history of tobacco use splenomegaly stroke vitamin d deficiency appendectomy in [ date ],SMOKING
+225_01540006102000014721_2015-10-06_16_08_44.nphi.txt,": cigarettes, no",SMOKING
+225_01540006102000014721_2015-10-06_16_08_44.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+225_01540006102000014721_2015-10-06_16_08_44.nphi.txt,: supportive family,SOCIAL_SUPPORT
+225_01540006102000014721_2015-10-06_16_08_44.nphi.txt,drink alcohol,ALCOHOL_USE
+225_01540006102000014721_2015-10-06_16_08_44.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+225_01540006102000014721_2015-10-06_16_08_44.nphi.txt,"depression,",MENTAL_HEALTH
+225_01540006102000014721_2015-10-06_16_08_44.nphi.txt,counseled extensively for smoking cessation adrenal,SMOKING
+225_01540006102000014721_2015-10-06_16_08_44.nphi.txt,adenoma alcohol abuse,ALCOHOL_USE
+226_01540006102000014721_2015-06-03_11_15_48.nphi.txt,": cigarettes, no",SMOKING
+226_01540006102000014721_2015-06-03_11_15_48.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+226_01540006102000014721_2015-06-03_11_15_48.nphi.txt,: supportive family,SOCIAL_SUPPORT
+226_01540006102000014721_2015-06-03_11_15_48.nphi.txt,drink alcohol,ALCOHOL_USE
+226_01540006102000014721_2015-06-03_11_15_48.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+226_01540006102000014721_2015-06-03_11_15_48.nphi.txt,"depression,",MENTAL_HEALTH
+226_01540006102000014721_2015-06-03_11_15_48.nphi.txt,alcohol abuse,ALCOHOL_USE
+234_01540006102000014721_2015-10-20_16_47_26.nphi.txt,": cigarettes, no",SMOKING
+234_01540006102000014721_2015-10-20_16_47_26.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+234_01540006102000014721_2015-10-20_16_47_26.nphi.txt,: supportive family,SOCIAL_SUPPORT
+234_01540006102000014721_2015-10-20_16_47_26.nphi.txt,drink alcohol,ALCOHOL_USE
+234_01540006102000014721_2015-10-20_16_47_26.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+234_01540006102000014721_2015-10-20_16_47_26.nphi.txt,"depression,",MENTAL_HEALTH
+235_01540006102000014721_2015-11-11_14_25_54.nphi.txt,": cigarettes, no",SMOKING
+235_01540006102000014721_2015-11-11_14_25_54.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+235_01540006102000014721_2015-11-11_14_25_54.nphi.txt,: supportive family,SOCIAL_SUPPORT
+235_01540006102000014721_2015-11-11_14_25_54.nphi.txt,drink alcohol,ALCOHOL_USE
+235_01540006102000014721_2015-11-11_14_25_54.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+235_01540006102000014721_2015-11-11_14_25_54.nphi.txt,"depression,",MENTAL_HEALTH
+238_01540006102000014721_2015-06-17_09_24_12.nphi.txt,| | significant other | | family member | | primary care physician | | physician ( consulting or referring ) | | pharmacy | | other |,SOCIAL_SUPPORT
+238_01540006102000014721_2015-06-17_09_24_12.nphi.txt,n ) y recommendations : patient and family verbalize understanding?,SOCIAL_SUPPORT
+238_01540006102000014721_2015-06-17_09_24_12.nphi.txt,n ) y does patient and family agree with plan?,SOCIAL_SUPPORT
+238_01540006102000014721_2015-06-17_09_24_12.nphi.txt,patient and family instructed to,SOCIAL_SUPPORT
+243_01540006102000014721_2015-12-02_11_51_17.nphi.txt,": cigarettes, no",SMOKING
+243_01540006102000014721_2015-12-02_11_51_17.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+243_01540006102000014721_2015-12-02_11_51_17.nphi.txt,: supportive family,SOCIAL_SUPPORT
+243_01540006102000014721_2015-12-02_11_51_17.nphi.txt,drink alcohol,ALCOHOL_USE
+243_01540006102000014721_2015-12-02_11_51_17.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+243_01540006102000014721_2015-12-02_11_51_17.nphi.txt,quit smoking 3 weeks ago,SMOKING
+243_01540006102000014721_2015-12-02_11_51_17.nphi.txt,"depression,",MENTAL_HEALTH
+246_01540006102000014721_2015-11-04_14_44_58.nphi.txt,nutrition assessment,FOOD_SECURITY
+246_01540006102000014721_2015-11-04_14_44_58.nphi.txt,history of tobacco use splenomegaly stroke vitamin d,SMOKING
+247_01540006102000014721_2015-11-27_11_11_52.nphi.txt,| | family member | | primary care physician | | physician ( consulting or referring ) | | pharmacy | | other |,SOCIAL_SUPPORT
+247_01540006102000014721_2015-11-27_11_11_52.nphi.txt,n ) recommendations : patient and family verbalize understanding?,SOCIAL_SUPPORT
+247_01540006102000014721_2015-11-27_11_11_52.nphi.txt,n ) y does patient and family agree with plan?,SOCIAL_SUPPORT
+247_01540006102000014721_2015-11-27_11_11_52.nphi.txt,patient and family instructed to,SOCIAL_SUPPORT
+247_01540006102000014721_2015-11-27_11_11_52.nphi.txt,| | lab or other test results given to patient or family member | | patient or family member assisted with scheduling change | |,SOCIAL_SUPPORT
+249_01540006102000014721_2015-12-23_05_22_57.nphi.txt,": cigarettes, no",SMOKING
+249_01540006102000014721_2015-12-23_05_22_57.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+249_01540006102000014721_2015-12-23_05_22_57.nphi.txt,: supportive family,SOCIAL_SUPPORT
+249_01540006102000014721_2015-12-23_05_22_57.nphi.txt,drink alcohol,ALCOHOL_USE
+249_01540006102000014721_2015-12-23_05_22_57.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+249_01540006102000014721_2015-12-23_05_22_57.nphi.txt,quit smoking 3 weeks ago,SMOKING
+249_01540006102000014721_2015-12-23_05_22_57.nphi.txt,"depression,",MENTAL_HEALTH
+250_01540006102000014721_2015-11-09_15_30_00.nphi.txt,| | family member | | primary care physician | | physician ( consulting or referring ) | | pharmacy | | other |,SOCIAL_SUPPORT
+250_01540006102000014721_2015-11-09_15_30_00.nphi.txt,n ) recommendations : patient and family verbalize understanding?,SOCIAL_SUPPORT
+250_01540006102000014721_2015-11-09_15_30_00.nphi.txt,n ) y does patient and family agree with plan?,SOCIAL_SUPPORT
+250_01540006102000014721_2015-11-09_15_30_00.nphi.txt,patient and family instructed to,SOCIAL_SUPPORT
+250_01540006102000014721_2015-11-09_15_30_00.nphi.txt,test results given to patient or family member | | patient or family member assisted with,SOCIAL_SUPPORT
+252_01540006102000014721_2016-02-03_05_08_28.nphi.txt,": cigarettes, no",SMOKING
+252_01540006102000014721_2016-02-03_05_08_28.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+252_01540006102000014721_2016-02-03_05_08_28.nphi.txt,: supportive family,SOCIAL_SUPPORT
+252_01540006102000014721_2016-02-03_05_08_28.nphi.txt,drink alcohol,ALCOHOL_USE
+252_01540006102000014721_2016-02-03_05_08_28.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+252_01540006102000014721_2016-02-03_05_08_28.nphi.txt,"depression,",MENTAL_HEALTH
+253_01540006102000014721_2015-10-29_14_45_00.nphi.txt,| | significant other | | family member | | primary care physician | | physician ( consulting or referring ) | | pharmacy | | other |,SOCIAL_SUPPORT
+253_01540006102000014721_2015-10-29_14_45_00.nphi.txt,she reported that she tried a benadryl since her family member thought it was sinus related since she was,SOCIAL_SUPPORT
+253_01540006102000014721_2015-10-29_14_45_00.nphi.txt,n ) y recommendations : patient and family verbalize understanding?,SOCIAL_SUPPORT
+253_01540006102000014721_2015-10-29_14_45_00.nphi.txt,n ) y does patient and family agree with plan?,SOCIAL_SUPPORT
+253_01540006102000014721_2015-10-29_14_45_00.nphi.txt,patient and family instructed to,SOCIAL_SUPPORT
+253_01540006102000014721_2015-10-29_14_45_00.nphi.txt,| | lab or other test results given to patient or family member | | patient or family member assisted with scheduling change | |,SOCIAL_SUPPORT
+257_01540006102000014721_2016-03-02_05_11_40.nphi.txt,": cigarettes, no",SMOKING
+257_01540006102000014721_2016-03-02_05_11_40.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+257_01540006102000014721_2016-03-02_05_11_40.nphi.txt,: supportive family,SOCIAL_SUPPORT
+257_01540006102000014721_2016-03-02_05_11_40.nphi.txt,drink alcohol,ALCOHOL_USE
+257_01540006102000014721_2016-03-02_05_11_40.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+257_01540006102000014721_2016-03-02_05_11_40.nphi.txt,"depression,",MENTAL_HEALTH
+266_01540006102000014721_2015-11-27_10_47_58.nphi.txt,| | family member | | primary care physician | | physician ( consulting or referring ) | | pharmacy | | other | name of,SOCIAL_SUPPORT
+266_01540006102000014721_2015-11-27_10_47_58.nphi.txt,n ) recommendations : patient and family verbalize understanding?,SOCIAL_SUPPORT
+266_01540006102000014721_2015-11-27_10_47_58.nphi.txt,n ) does patient and family agree with plan?,SOCIAL_SUPPORT
+266_01540006102000014721_2015-11-27_10_47_58.nphi.txt,patient and family instructed to,SOCIAL_SUPPORT
+266_01540006102000014721_2015-11-27_10_47_58.nphi.txt,test results given to patient or family member | | patient or family member assisted with,SOCIAL_SUPPORT
+270_01540006102000014721_2016-04-04_16_10_00.nphi.txt,| family member | | primary care physician |,SOCIAL_SUPPORT
+270_01540006102000014721_2016-04-04_16_10_00.nphi.txt,n ) y recommendations : patient and family verbalize understanding?,SOCIAL_SUPPORT
+270_01540006102000014721_2016-04-04_16_10_00.nphi.txt,n ) y does patient and family agree with plan?,SOCIAL_SUPPORT
+270_01540006102000014721_2016-04-04_16_10_00.nphi.txt,patient and family instructed to,SOCIAL_SUPPORT
+270_01540006102000014721_2016-04-04_16_10_00.nphi.txt,| | lab or other test results given to patient or family member | | patient or family member assisted with scheduling change | |,SOCIAL_SUPPORT
+273_01540006102000014721_2016-05-04_12_41_58.nphi.txt,| | family member | | primary care physician | | physician ( consulting or referring ) | | pharmacy | | other |,SOCIAL_SUPPORT
+273_01540006102000014721_2016-05-04_12_41_58.nphi.txt,n ) recommendations : patient and family verbalize understanding?,SOCIAL_SUPPORT
+273_01540006102000014721_2016-05-04_12_41_58.nphi.txt,n ) does patient and family agree with plan?,SOCIAL_SUPPORT
+273_01540006102000014721_2016-05-04_12_41_58.nphi.txt,patient and family instructed to,SOCIAL_SUPPORT
+273_01540006102000014721_2016-05-04_12_41_58.nphi.txt,test results given to patient or family member | | patient or family member assisted with,SOCIAL_SUPPORT
+274_01540006102000014721_2016-05-04_15_49_05.nphi.txt,| | family member | | primary care physician | | physician ( consulting or referring ) | | pharmacy | | other |,SOCIAL_SUPPORT
+274_01540006102000014721_2016-05-04_15_49_05.nphi.txt,income,EMPLOYMENT
+274_01540006102000014721_2016-05-04_15_49_05.nphi.txt,who is not a family member,SOCIAL_SUPPORT
+274_01540006102000014721_2016-05-04_15_49_05.nphi.txt,n ) recommendations : patient and family verbalize understanding?,SOCIAL_SUPPORT
+274_01540006102000014721_2016-05-04_15_49_05.nphi.txt,n ) y does patient and family agree with plan?,SOCIAL_SUPPORT
+274_01540006102000014721_2016-05-04_15_49_05.nphi.txt,patient and family instructed to,SOCIAL_SUPPORT
+274_01540006102000014721_2016-05-04_15_49_05.nphi.txt,test results given to patient or family member | | patient or family member assisted with,SOCIAL_SUPPORT
+288_01540006102000014721_2016-06-02_13_28_12.nphi.txt,": cigarettes, no",SMOKING
+288_01540006102000014721_2016-06-02_13_28_12.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+288_01540006102000014721_2016-06-02_13_28_12.nphi.txt,: supportive family,SOCIAL_SUPPORT
+288_01540006102000014721_2016-06-02_13_28_12.nphi.txt,drink alcohol,ALCOHOL_USE
+288_01540006102000014721_2016-06-02_13_28_12.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+288_01540006102000014721_2016-06-02_13_28_12.nphi.txt,", depression,",MENTAL_HEALTH
+290_01540006102000014721_2016-06-06_16_57_27.nphi.txt,": cigarettes, no",SMOKING
+290_01540006102000014721_2016-06-06_16_57_27.nphi.txt,"drug use, stopped smoking [ date ], and",SMOKING
+290_01540006102000014721_2016-06-06_16_57_27.nphi.txt,: supportive family,SOCIAL_SUPPORT
+290_01540006102000014721_2016-06-06_16_57_27.nphi.txt,drink alcohol,ALCOHOL_USE
+290_01540006102000014721_2016-06-06_16_57_27.nphi.txt,easily a six pack or better a day on weekends and five to six shots of alcohol,ALCOHOL_USE
+290_01540006102000014721_2016-06-06_16_57_27.nphi.txt,", depression,",MENTAL_HEALTH
+300_02420000000000044544_2020-01-09_12_36_38.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+300_02420000000000044544_2020-01-09_12_36_38.nphi.txt,he has no history of drinking,ALCOHOL_USE
+300_02420000000000044544_2020-01-09_12_36_38.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+300_02420000000000044544_2020-01-09_12_36_38.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+300_02420000000000044544_2020-01-09_12_36_38.nphi.txt,family history,SOCIAL_SUPPORT
+300_02420000000000044544_2020-01-09_12_36_38.nphi.txt,"depression,",MENTAL_HEALTH
+300_02420000000000044544_2020-01-09_12_36_38.nphi.txt,no | smoking | 5 |,SMOKING
+302_02420000000000044544_2020-01-23_08_16_00.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+302_02420000000000044544_2020-01-23_08_16_00.nphi.txt,he has no history of drinking,ALCOHOL_USE
+302_02420000000000044544_2020-01-23_08_16_00.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+302_02420000000000044544_2020-01-23_08_16_00.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+302_02420000000000044544_2020-01-23_08_16_00.nphi.txt,no | smoking | 5 | performance status : 0 - fully active,SMOKING
+303_02420000000000044544_2020-02-13_15_35_33.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+303_02420000000000044544_2020-02-13_15_35_33.nphi.txt,he has no history of drinking,ALCOHOL_USE
+303_02420000000000044544_2020-02-13_15_35_33.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+303_02420000000000044544_2020-02-13_15_35_33.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+303_02420000000000044544_2020-02-13_15_35_33.nphi.txt,", depression,",MENTAL_HEALTH
+303_02420000000000044544_2020-02-13_15_35_33.nphi.txt,"o2 sat ) | 95 % | fall risk | no | smoking | 5 | performance status : 0 - fully active, able to carry on all predise",SMOKING
+305_02420000000000044544_2020-01-09_08_05_00.nphi.txt,new patient assessment distress screen. pdf,MENTAL_HEALTH
+310_02420000000000044544_2020-02-06_09_16_43.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+310_02420000000000044544_2020-02-06_09_16_43.nphi.txt,he has no history of drinking,ALCOHOL_USE
+310_02420000000000044544_2020-02-06_09_16_43.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+310_02420000000000044544_2020-02-06_09_16_43.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+310_02420000000000044544_2020-02-06_09_16_43.nphi.txt,depression,MENTAL_HEALTH
+310_02420000000000044544_2020-02-06_09_16_43.nphi.txt,no | smoking | 5 |,SMOKING
+311_02420000000000044544_2020-03-05_09_24_04.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+311_02420000000000044544_2020-03-05_09_24_04.nphi.txt,he has no history of drinking,ALCOHOL_USE
+311_02420000000000044544_2020-03-05_09_24_04.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+311_02420000000000044544_2020-03-05_09_24_04.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+311_02420000000000044544_2020-03-05_09_24_04.nphi.txt,", depression,",MENTAL_HEALTH
+311_02420000000000044544_2020-03-05_09_24_04.nphi.txt,no | smoking | 5 |,SMOKING
+314_02420000000000044544_2020-03-26_10_09_08.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+314_02420000000000044544_2020-03-26_10_09_08.nphi.txt,he has no history of drinking,ALCOHOL_USE
+314_02420000000000044544_2020-03-26_10_09_08.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+314_02420000000000044544_2020-03-26_10_09_08.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+314_02420000000000044544_2020-03-26_10_09_08.nphi.txt,", depression,",MENTAL_HEALTH
+314_02420000000000044544_2020-03-26_10_09_08.nphi.txt,| smoking | 5 |,SMOKING
+317_02420000000000044544_2020-04-13_13_29_03.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+317_02420000000000044544_2020-04-13_13_29_03.nphi.txt,he has no history of drinking,ALCOHOL_USE
+317_02420000000000044544_2020-04-13_13_29_03.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+317_02420000000000044544_2020-04-13_13_29_03.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+317_02420000000000044544_2020-04-13_13_29_03.nphi.txt,total time spent with patient and / or family,SOCIAL_SUPPORT
+319_02420000000000044544_2020-07-09_10_19_00.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+319_02420000000000044544_2020-07-09_10_19_00.nphi.txt,he has no history of drinking,ALCOHOL_USE
+319_02420000000000044544_2020-07-09_10_19_00.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+319_02420000000000044544_2020-07-09_10_19_00.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+319_02420000000000044544_2020-07-09_10_19_00.nphi.txt,", depression,",MENTAL_HEALTH
+319_02420000000000044544_2020-07-09_10_19_00.nphi.txt,"no | smoking | 5 | performance status : 0 - fully active, able to carry on all predisease activities without restrictions",SMOKING
+321_02420000000000044544_2020-06-18_08_21_00.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+321_02420000000000044544_2020-06-18_08_21_00.nphi.txt,he has no history of drinking,ALCOHOL_USE
+321_02420000000000044544_2020-06-18_08_21_00.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+321_02420000000000044544_2020-06-18_08_21_00.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+321_02420000000000044544_2020-06-18_08_21_00.nphi.txt,", depression,",MENTAL_HEALTH
+321_02420000000000044544_2020-06-18_08_21_00.nphi.txt,| smoking | 5 |,SMOKING
+325_02420000000000044544_2020-06-05_14_56_26.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+325_02420000000000044544_2020-06-05_14_56_26.nphi.txt,he has no history of drinking,ALCOHOL_USE
+325_02420000000000044544_2020-06-05_14_56_26.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+325_02420000000000044544_2020-06-05_14_56_26.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+325_02420000000000044544_2020-06-05_14_56_26.nphi.txt,", depression,",MENTAL_HEALTH
+327_02420000000000044544_2020-08-20_10_18_15.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+327_02420000000000044544_2020-08-20_10_18_15.nphi.txt,he has no history of drinking,ALCOHOL_USE
+327_02420000000000044544_2020-08-20_10_18_15.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+327_02420000000000044544_2020-08-20_10_18_15.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+329_02420000000000044544_2020-05-04_11_33_56.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+329_02420000000000044544_2020-05-04_11_33_56.nphi.txt,he has no history of drinking,ALCOHOL_USE
+329_02420000000000044544_2020-05-04_11_33_56.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+329_02420000000000044544_2020-05-04_11_33_56.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+329_02420000000000044544_2020-05-04_11_33_56.nphi.txt,total time spent with patient and / or family 15minutes.,SOCIAL_SUPPORT
+330_02420000000000044544_2020-10-06_11_54_17.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+330_02420000000000044544_2020-10-06_11_54_17.nphi.txt,he has no history of drinking,ALCOHOL_USE
+330_02420000000000044544_2020-10-06_11_54_17.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+330_02420000000000044544_2020-10-06_11_54_17.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+332_02420000000000044544_2020-07-30_08_17_00.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+332_02420000000000044544_2020-07-30_08_17_00.nphi.txt,he has no history of drinking,ALCOHOL_USE
+332_02420000000000044544_2020-07-30_08_17_00.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+332_02420000000000044544_2020-07-30_08_17_00.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+332_02420000000000044544_2020-07-30_08_17_00.nphi.txt,", depression,",MENTAL_HEALTH
+333_02420000000000044544_2020-11-24_11_52_00.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+333_02420000000000044544_2020-11-24_11_52_00.nphi.txt,he has no history of drinking,ALCOHOL_USE
+333_02420000000000044544_2020-11-24_11_52_00.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+333_02420000000000044544_2020-11-24_11_52_00.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+333_02420000000000044544_2020-11-24_11_52_00.nphi.txt,0 | smoking | 0 | performed on [ date,SMOKING
+334_02420000000000044544_2020-09-15_14_58_27.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+334_02420000000000044544_2020-09-15_14_58_27.nphi.txt,he has no history of drinking,ALCOHOL_USE
+334_02420000000000044544_2020-09-15_14_58_27.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+334_02420000000000044544_2020-09-15_14_58_27.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+334_02420000000000044544_2020-09-15_14_58_27.nphi.txt,depression,MENTAL_HEALTH
+334_02420000000000044544_2020-09-15_14_58_27.nphi.txt,no | smoking | 5 |,SMOKING
+335_02420000000000044544_2020-12-22_08_19_00.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+335_02420000000000044544_2020-12-22_08_19_00.nphi.txt,he has no history of drinking,ALCOHOL_USE
+335_02420000000000044544_2020-12-22_08_19_00.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+335_02420000000000044544_2020-12-22_08_19_00.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+335_02420000000000044544_2020-12-22_08_19_00.nphi.txt,no | smoking | 5 |,SMOKING
+336_02420000000000044544_2020-06-15_12_46_54.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+336_02420000000000044544_2020-06-15_12_46_54.nphi.txt,he has no history of drinking,ALCOHOL_USE
+336_02420000000000044544_2020-06-15_12_46_54.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+336_02420000000000044544_2020-06-15_12_46_54.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+336_02420000000000044544_2020-06-15_12_46_54.nphi.txt,total time spent with patient and / or family,SOCIAL_SUPPORT
+337_02420000000000044544_2021-01-07_12_45_44.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+337_02420000000000044544_2021-01-07_12_45_44.nphi.txt,he has no history of drinking,ALCOHOL_USE
+337_02420000000000044544_2021-01-07_12_45_44.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+337_02420000000000044544_2021-01-07_12_45_44.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+337_02420000000000044544_2021-01-07_12_45_44.nphi.txt,no | smoking | 5 | performed on [ date,SMOKING
+340_02420000000000044544_2021-01-12_07_47_06.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+340_02420000000000044544_2021-01-12_07_47_06.nphi.txt,he has no history of drinking,ALCOHOL_USE
+340_02420000000000044544_2021-01-12_07_47_06.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+340_02420000000000044544_2021-01-12_07_47_06.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+340_02420000000000044544_2021-01-12_07_47_06.nphi.txt,", depression,",MENTAL_HEALTH
+342_02420000000000044544_2020-10-27_10_01_00.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+342_02420000000000044544_2020-10-27_10_01_00.nphi.txt,he has no history of drinking,ALCOHOL_USE
+342_02420000000000044544_2020-10-27_10_01_00.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+342_02420000000000044544_2020-10-27_10_01_00.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+342_02420000000000044544_2020-10-27_10_01_00.nphi.txt,97 % | fall risk | no | smoking | 5 |,SMOKING
+345_02420000000000044544_2021-02-09_15_04_00.nphi.txt,quit smoking 17 years ago but had smoked 1. 0 pack / day for 20 years,SMOKING
+345_02420000000000044544_2021-02-09_15_04_00.nphi.txt,he has no history of drinking,ALCOHOL_USE
+345_02420000000000044544_2021-02-09_15_04_00.nphi.txt,he has indicated exposure to the following products : cigarettes.,SMOKING
+345_02420000000000044544_2021-02-09_15_04_00.nphi.txt,: lives alone.,SOCIAL_SUPPORT
+345_02420000000000044544_2021-02-09_15_04_00.nphi.txt,", depression,",MENTAL_HEALTH
+348_03070006000000304301_2014-03-19_10_34_44.nphi.txt,nutrition,FOOD_SECURITY
+348_03070006000000304301_2014-03-19_10_34_44.nphi.txt,nutrition,FOOD_SECURITY
+350_03070006000000304301_2014-03-21_14_54_35.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+355_03070006000000304301_2014-03-19_15_48_33.nphi.txt,distress screening.,MENTAL_HEALTH
+359_03070006000000304301_2014-04-25_14_19_52.nphi.txt,nutrition,FOOD_SECURITY
+359_03070006000000304301_2014-04-25_14_19_52.nphi.txt,workers _ _ _ clergy _ _ _ nutritionists _ _ _ genetic counselors _ _ _ _ financial,FOOD_SECURITY
+362_03070006000000304301_2014-04-29_10_27_39.nphi.txt,told family that he had 3 months to live and referred him,SOCIAL_SUPPORT
+362_03070006000000304301_2014-04-29_10_27_39.nphi.txt,negative depression,MENTAL_HEALTH
+362_03070006000000304301_2014-04-29_10_27_39.nphi.txt,with family however currently not taking med,SOCIAL_SUPPORT
+362_03070006000000304301_2014-04-29_10_27_39.nphi.txt,marijuana,DRUG_USE
+362_03070006000000304301_2014-04-29_10_27_39.nphi.txt,family history :,SOCIAL_SUPPORT
+362_03070006000000304301_2014-04-29_10_27_39.nphi.txt,"depression,",MENTAL_HEALTH
+374_03070006000000304301_2014-05-07_13_31_03.nphi.txt,stressed the importance of maintaining,MENTAL_HEALTH
+375_03070006000000304301_2014-05-08_17_47_51.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+381_03070006000000304301_2014-05-21_12_56_59.nphi.txt,he is eating / drinking better.,ALCOHOL_USE
+381_03070006000000304301_2014-05-21_12_56_59.nphi.txt,] depression,MENTAL_HEALTH
+381_03070006000000304301_2014-05-21_12_56_59.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+381_03070006000000304301_2014-05-21_12_56_59.nphi.txt,marijuana,DRUG_USE
+381_03070006000000304301_2014-05-21_12_56_59.nphi.txt,family history :,SOCIAL_SUPPORT
+381_03070006000000304301_2014-05-21_12_56_59.nphi.txt,"depression,",MENTAL_HEALTH
+382_03070006000000304301_2014-05-16_16_57_13.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+385_03070006000000304301_2014-06-09_17_29_01.nphi.txt,he is eating / drinking better.,ALCOHOL_USE
+385_03070006000000304301_2014-06-09_17_29_01.nphi.txt,"depression,",MENTAL_HEALTH
+386_03070006000000304301_2014-06-09_10_26_22.nphi.txt,] depression,MENTAL_HEALTH
+386_03070006000000304301_2014-06-09_10_26_22.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+389_03070006000000304301_2014-05-08_12_51_11.nphi.txt,eating / drinking,ALCOHOL_USE
+389_03070006000000304301_2014-05-08_12_51_11.nphi.txt,] depression,MENTAL_HEALTH
+389_03070006000000304301_2014-05-08_12_51_11.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+389_03070006000000304301_2014-05-08_12_51_11.nphi.txt,marijuana,DRUG_USE
+389_03070006000000304301_2014-05-08_12_51_11.nphi.txt,family history :,SOCIAL_SUPPORT
+389_03070006000000304301_2014-05-08_12_51_11.nphi.txt,"depression,",MENTAL_HEALTH
+398_03070006000000304301_2014-06-13_14_51_00.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+402_03070006000000304301_2014-05-21_12_02_22.nphi.txt,] depression,MENTAL_HEALTH
+402_03070006000000304301_2014-05-21_12_02_22.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+403_03070006000000304301_2014-06-12_17_24_30.nphi.txt,drinking,ALCOHOL_USE
+404_03070006000000304301_2014-06-10_15_54_30.nphi.txt,drinking,ALCOHOL_USE
+412_03070006000000304301_2014-05-13_10_21_37.nphi.txt,", he is eating / drinking better",ALCOHOL_USE
+412_03070006000000304301_2014-05-13_10_21_37.nphi.txt,] depression,MENTAL_HEALTH
+412_03070006000000304301_2014-05-13_10_21_37.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+412_03070006000000304301_2014-05-13_10_21_37.nphi.txt,marijuana,DRUG_USE
+412_03070006000000304301_2014-05-13_10_21_37.nphi.txt,family history :,SOCIAL_SUPPORT
+412_03070006000000304301_2014-05-13_10_21_37.nphi.txt,"depression,",MENTAL_HEALTH
+417_03070006000000304301_2014-07-02_09_35_43.nphi.txt,drinking better.,ALCOHOL_USE
+425_03070006000000304301_2014-07-15_08_55_15.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+428_03070006000000304301_2014-06-27_11_01_46.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+429_03070006000000304301_2014-07-29_13_44_22.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+433_03070006000000304301_2014-08-12_14_36_02.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+434_03070006000000304301_2014-08-12_14_36_28.nphi.txt,family,SOCIAL_SUPPORT
+437_03070006000000304301_2014-07-23_08_44_26.nphi.txt,"depression,",MENTAL_HEALTH
+437_03070006000000304301_2014-07-23_08_44_26.nphi.txt,depression,MENTAL_HEALTH
+437_03070006000000304301_2014-07-23_08_44_26.nphi.txt,with family however currently not taking med,SOCIAL_SUPPORT
+440_03070006000000304301_2014-08-26_14_12_17.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+442_03070006000000304301_2014-09-09_15_13_16.nphi.txt,] depression,MENTAL_HEALTH
+442_03070006000000304301_2014-09-09_15_13_16.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+444_03070006000000304301_2014-09-09_15_43_32.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+446_03070006000000304301_2014-09-23_14_24_37.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+448_03070006000000304301_2014-09-23_17_55_21.nphi.txt,in family visited in infusion center - pt is doing well,SOCIAL_SUPPORT
+452_03070006000000304301_2014-10-22_11_17_49.nphi.txt,] depression,MENTAL_HEALTH
+452_03070006000000304301_2014-10-22_11_17_49.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+454_03070006000000304301_2014-08-25_15_57_58.nphi.txt,] depression,MENTAL_HEALTH
+454_03070006000000304301_2014-08-25_15_57_58.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+460_03070006000000304301_2015-03-16_19_23_12.nphi.txt,told family that he had 3 months to live and referred him,SOCIAL_SUPPORT
+460_03070006000000304301_2015-03-16_19_23_12.nphi.txt,he is smoking as well. he has,SMOKING
+460_03070006000000304301_2015-03-16_19_23_12.nphi.txt,history : diagnoses : personal history of tobacco use.,SMOKING
+460_03070006000000304301_2015-03-16_19_23_12.nphi.txt,", depression,",MENTAL_HEALTH
+460_03070006000000304301_2015-03-16_19_23_12.nphi.txt,today with coags - remove port - encouraged follow up - stop smoking ( pt had bleomycin - - this was described,SMOKING
+460_03070006000000304301_2015-03-16_19_23_12.nphi.txt,smoking - strongly encouraged cessation rtc 4,SMOKING
+465_03070006000000304301_2015-07-30_12_48_41.nphi.txt,"of tobacco use, diagnosed [ date",SMOKING
+465_03070006000000304301_2015-07-30_12_48_41.nphi.txt,] depression,MENTAL_HEALTH
+465_03070006000000304301_2015-07-30_12_48_41.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+466_03070006000000304301_2015-07-30_17_11_14.nphi.txt,he has stopped smoking because,SMOKING
+466_03070006000000304301_2015-07-30_17_11_14.nphi.txt,] depression,MENTAL_HEALTH
+466_03070006000000304301_2015-07-30_17_11_14.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+466_03070006000000304301_2015-07-30_17_11_14.nphi.txt,", depression,",MENTAL_HEALTH
+466_03070006000000304301_2015-07-30_17_11_14.nphi.txt,- encouraged follow up - stop smoking permanently ( pt had bleomycin - - this was described to pt in great detail ) 2.,SMOKING
+466_03070006000000304301_2015-07-30_17_11_14.nphi.txt,smoking - patient seems motivated to permanently quit smoking.,SMOKING
+469_03070006000000304301_2015-08-27_19_53_15.nphi.txt,he has stopped smoking because,SMOKING
+469_03070006000000304301_2015-08-27_19_53_15.nphi.txt,] depression,MENTAL_HEALTH
+469_03070006000000304301_2015-08-27_19_53_15.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+469_03070006000000304301_2015-08-27_19_53_15.nphi.txt,", depression,",MENTAL_HEALTH
+469_03070006000000304301_2015-08-27_19_53_15.nphi.txt,- encouraged follow up - stop smoking permanently ( pt had bleomycin - - this was described to pt in great detail ) 2.,SMOKING
+469_03070006000000304301_2015-08-27_19_53_15.nphi.txt,smoking - patient seems motivated to permanently quit smoking.,SMOKING
+472_03070006000000304301_2016-01-21_17_04_00.nphi.txt,"of tobacco use, diagnosed [ date",SMOKING
+472_03070006000000304301_2016-01-21_17_04_00.nphi.txt,] depression,MENTAL_HEALTH
+472_03070006000000304301_2016-01-21_17_04_00.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+474_03070006000000304301_2016-01-21_10_39_00.nphi.txt,] depression,MENTAL_HEALTH
+474_03070006000000304301_2016-01-21_10_39_00.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+474_03070006000000304301_2016-01-21_10_39_00.nphi.txt,daily family history : grandfather :,SOCIAL_SUPPORT
+474_03070006000000304301_2016-01-21_10_39_00.nphi.txt,marijuana,DRUG_USE
+474_03070006000000304301_2016-01-21_10_39_00.nphi.txt,"depression,",MENTAL_HEALTH
+475_03070006000000304301_2016-04-21_12_13_46.nphi.txt,] depression,MENTAL_HEALTH
+475_03070006000000304301_2016-04-21_12_13_46.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+475_03070006000000304301_2016-04-21_12_13_46.nphi.txt,daily family history : grandfather :,SOCIAL_SUPPORT
+475_03070006000000304301_2016-04-21_12_13_46.nphi.txt,marijuana,DRUG_USE
+475_03070006000000304301_2016-04-21_12_13_46.nphi.txt,"depression,",MENTAL_HEALTH
+476_03070006000000304301_2016-04-21_12_20_42.nphi.txt,"of tobacco use, diagnosed [ date",SMOKING
+476_03070006000000304301_2016-04-21_12_20_42.nphi.txt,] depression,MENTAL_HEALTH
+476_03070006000000304301_2016-04-21_12_20_42.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+477_03070006000000304301_2015-08-27_16_14_35.nphi.txt,"of tobacco use, diagnosed [ date",SMOKING
+477_03070006000000304301_2015-08-27_16_14_35.nphi.txt,] depression,MENTAL_HEALTH
+477_03070006000000304301_2015-08-27_16_14_35.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+479_03070006000000304301_2015-03-16_14_00_58.nphi.txt,] depression,MENTAL_HEALTH
+479_03070006000000304301_2015-03-16_14_00_58.nphi.txt,"with family however currently not taking meds, elavil stopped 3 yrs ago",SOCIAL_SUPPORT
+489_04070000000000012289_2014-12-30_10_56_36.nphi.txt,he continues to smoke 1 ppd and is awaiting a smoking cessation group here at guh,SMOKING
+489_04070000000000012289_2014-12-30_10_56_36.nphi.txt,is homeless and,HOUSING
+489_04070000000000012289_2014-12-30_10_56_36.nphi.txt,shelter,HOUSING
+489_04070000000000012289_2014-12-30_10_56_36.nphi.txt,schizophrenia.,MENTAL_HEALTH
+489_04070000000000012289_2014-12-30_10_56_36.nphi.txt,: homeless.,HOUSING
+489_04070000000000012289_2014-12-30_10_56_36.nphi.txt,", currently homeless, arrives by bus ( has to leave",HOUSING
+489_04070000000000012289_2014-12-30_10_56_36.nphi.txt,is encouraged to work on reduction of smoking.,SMOKING
+489_04070000000000012289_2014-12-30_10_56_36.nphi.txt,will be contacted and informed of recommendations made - smoking cessation - diflucan,SMOKING
+490_04070000000000012289_2015-03-31_11_00_00.nphi.txt,schizophrenia.,MENTAL_HEALTH
+490_04070000000000012289_2015-03-31_11_00_00.nphi.txt,: homeless.,HOUSING
+490_04070000000000012289_2015-03-31_11_00_00.nphi.txt,", currently homeless, arrives by bus ( has to leave",HOUSING
+490_04070000000000012289_2015-03-31_11_00_00.nphi.txt,oncology - f / u with thoracic surgery - smoking cessation - rtc after above thank you for involving me in the,SMOKING
+493_04070000000000012289_2014-08-19_14_05_36.nphi.txt,to smoking cessation resources in the,SMOKING
+493_04070000000000012289_2014-08-19_14_05_36.nphi.txt,community,SOCIAL_SUPPORT
+493_04070000000000012289_2014-08-19_14_05_36.nphi.txt,"), and was informed that patient can call and enroll to get support such as free phone counseling, nicotine patches, gum and lozenges.",SMOKING
+494_04070000000000012289_2016-09-06_12_19_00.nphi.txt,##e ] currently smokes 1 pack of cigarettes daily.,SMOKING
+494_04070000000000012289_2016-09-06_12_19_00.nphi.txt,he went one month without cigarettes while on the nicotine,SMOKING
+494_04070000000000012289_2016-09-06_12_19_00.nphi.txt,he stopped using the nicotine,SMOKING
+494_04070000000000012289_2016-09-06_12_19_00.nphi.txt,schizophrenia.,MENTAL_HEALTH
+494_04070000000000012289_2016-09-06_12_19_00.nphi.txt,: homeless.,HOUSING
+494_04070000000000012289_2016-09-06_12_19_00.nphi.txt,"homeless, arrives by bus ( has to leave",HOUSING
+494_04070000000000012289_2016-09-06_12_19_00.nphi.txt,we suggesting trying nicotine gum as an alternative to the nicotine,SMOKING
+494_04070000000000012289_2016-09-06_12_19_00.nphi.txt,"- smoking cessation, nicotine gum discussed",SMOKING
+497_04070000000000012289_2014-08-19_14_00_00.nphi.txt,schizophrenia,MENTAL_HEALTH
+497_04070000000000012289_2014-08-19_14_00_00.nphi.txt,: homeless.,HOUSING
+497_04070000000000012289_2014-08-19_14_00_00.nphi.txt,", currently homeless, arrives by bus ( has to leave",HOUSING
+497_04070000000000012289_2014-08-19_14_00_00.nphi.txt,address ] family,SOCIAL_SUPPORT
+497_04070000000000012289_2014-08-19_14_00_00.nphi.txt,history : the family history is unre,SOCIAL_SUPPORT
+497_04070000000000012289_2014-08-19_14_00_00.nphi.txt,he is interested in smoking cessation but does not have the funds for nicotine patches ( which,SMOKING
+497_04070000000000012289_2014-08-19_14_00_00.nphi.txt,- smoking cessation - referred to pulmonary medicine for copd management - ct,SMOKING
+510_05580006000000296234_2015-05-26_13_05_56.nphi.txt,he quit smoking 1 year ago.,SMOKING
+510_05580006000000296234_2015-05-26_13_05_56.nphi.txt,with marijuana,DRUG_USE
+510_05580006000000296234_2015-05-26_13_05_56.nphi.txt,heroin,DRUG_USE
+510_05580006000000296234_2015-05-26_13_05_56.nphi.txt,family history : mr. [ personal,SOCIAL_SUPPORT
+510_05580006000000296234_2015-05-26_13_05_56.nphi.txt,no significant family history of cancer,SOCIAL_SUPPORT
+514_05580006000000296234_2015-06-09_16_00_30.nphi.txt,he quit smoking 1 year ago.,SMOKING
+514_05580006000000296234_2015-06-09_16_00_30.nphi.txt,with marijuana,DRUG_USE
+514_05580006000000296234_2015-06-09_16_00_30.nphi.txt,heroin,DRUG_USE
+514_05580006000000296234_2015-06-09_16_00_30.nphi.txt,family history : mr. [ personal,SOCIAL_SUPPORT
+514_05580006000000296234_2015-06-09_16_00_30.nphi.txt,no significant family history of cancer,SOCIAL_SUPPORT
+516_05580006000000296234_2015-08-11_16_05_14.nphi.txt,he quit smoking 1 year ago.,SMOKING
+516_05580006000000296234_2015-08-11_16_05_14.nphi.txt,with marijuana,DRUG_USE
+516_05580006000000296234_2015-08-11_16_05_14.nphi.txt,heroin,DRUG_USE
+516_05580006000000296234_2015-08-11_16_05_14.nphi.txt,family history : mr. [ personal,SOCIAL_SUPPORT
+516_05580006000000296234_2015-08-11_16_05_14.nphi.txt,no significant family history of cancer,SOCIAL_SUPPORT
+518_05580006000000296234_2015-11-24_12_04_08.nphi.txt,he quit smoking 1 year ago.,SMOKING
+518_05580006000000296234_2015-11-24_12_04_08.nphi.txt,with marijuana,DRUG_USE
+518_05580006000000296234_2015-11-24_12_04_08.nphi.txt,heroin,DRUG_USE
+518_05580006000000296234_2015-11-24_12_04_08.nphi.txt,family history : mr. [ personal,SOCIAL_SUPPORT
+518_05580006000000296234_2015-11-24_12_04_08.nphi.txt,no significant family history of cancer,SOCIAL_SUPPORT
+520_05580006000000296234_2016-01-12_11_54_37.nphi.txt,he quit smoking 1 year ago.,SMOKING
+520_05580006000000296234_2016-01-12_11_54_37.nphi.txt,with marijuana,DRUG_USE
+520_05580006000000296234_2016-01-12_11_54_37.nphi.txt,heroin,DRUG_USE
+520_05580006000000296234_2016-01-12_11_54_37.nphi.txt,family history : mr. [ personal,SOCIAL_SUPPORT
+520_05580006000000296234_2016-01-12_11_54_37.nphi.txt,no significant family history of cancer,SOCIAL_SUPPORT
+521_05580006000000296234_2016-01-12_12_06_07.nphi.txt,list has been reviewed with patient / family.,SOCIAL_SUPPORT
+526_05580006000000296234_2016-01-21_00_00_00.nphi.txt,denies any alcohol no current,ALCOHOL_USE
+526_05580006000000296234_2016-01-21_00_00_00.nphi.txt,heroin,DRUG_USE
+526_05580006000000296234_2016-01-21_00_00_00.nphi.txt,family history : none significant that they are aware of.,SOCIAL_SUPPORT
+526_05580006000000296234_2016-01-21_00_00_00.nphi.txt,": awake and alert, sitting comfortably in a chair, in no acute distress",MENTAL_HEALTH
+527_05580006000000296234_2016-03-01_12_05_47.nphi.txt,he quit smoking 1 year ago.,SMOKING
+527_05580006000000296234_2016-03-01_12_05_47.nphi.txt,with marijuana,DRUG_USE
+527_05580006000000296234_2016-03-01_12_05_47.nphi.txt,heroin,DRUG_USE
+527_05580006000000296234_2016-03-01_12_05_47.nphi.txt,family history : mr. [ personal,SOCIAL_SUPPORT
+527_05580006000000296234_2016-03-01_12_05_47.nphi.txt,no significant family history of cancer,SOCIAL_SUPPORT
+527_05580006000000296234_2016-03-01_12_05_47.nphi.txt,anxiety,MENTAL_HEALTH
