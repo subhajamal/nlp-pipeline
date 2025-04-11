@@ -1,12 +1,12 @@
-# 🧠 NLP Pipeline for Extracting Social Determinants of Health (SDOH)
+# NLP Pipeline for Extracting Social Determinants of Health (SDOH)
 
 This project implements a complete Natural Language Processing pipeline to identify **Social Determinants of Health (SDOH)** from clinical notes. It includes automated **de-identification**, **NER-based entity extraction**, **BIO-tag formatting**, and **fine-tuning of BioBERT** for named entity recognition (NER).
 
-> ✅ Ideal for researchers working with clinical text and looking to extract sensitive non-medical context (e.g. housing, employment, transportation, relationships).
+> Ideal for researchers working with clinical text and looking to extract sensitive non-medical context (e.g. housing, employment, transportation, relationships).
 
 ---
 
-## 🔍 Pipeline Overview
+## Pipeline Overview
 
 | Step | Description |
 |------|-------------|
